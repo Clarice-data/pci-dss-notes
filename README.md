@@ -16,15 +16,15 @@ all client-identifying information has been removed.
 
 ## what's here
 
-### overview.md
+### [overview.md](overview.md)
 what PCI-DSS is, why it matters for small businesses, and a plain-language
 summary of the remediation process.
 
-### gap-analysis-notes.md
+### [gap-analysis-notes.md](gap-analysis-notes.md)
 the categories of gaps identified and how they were prioritized.
 no specific system names or client data included.
 
-### remediation-process.md
+### [remediation-process.md](remediation-process.md)
 the steps taken to move from non-compliant to compliant, including
 vendor coordination, documentation requirements, and timeline.
 
